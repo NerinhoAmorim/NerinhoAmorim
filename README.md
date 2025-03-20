@@ -5,7 +5,6 @@ Sou um **Engenheiro de Software Backend** com mais de 3 anos de experiência em 
 
 ---
 
-## 💡 Subtítulo:
 **Engenheiro de Software | Especialista em Java e Spring Boot**
 
 ---
